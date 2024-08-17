@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "editor.formatOnSave": true,
+    "gitlens.graph.minimap.enabled": false,
+    "editor.formatOnSaveMode": "file"
+}
